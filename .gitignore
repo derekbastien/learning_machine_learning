@@ -102,3 +102,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Project Specific
+settings.py
+service_key.json
+my.cnf
+pip-selfcheck.json
+pyvenv.cfg
+create_data/
+media/
+position_mgmt/migrations/
+old_files/
+venv/
+.idea/
+Scripts/
+share/
+Lib/
+Include/
+.DS_Store
+.to_do.txt.swp
+
